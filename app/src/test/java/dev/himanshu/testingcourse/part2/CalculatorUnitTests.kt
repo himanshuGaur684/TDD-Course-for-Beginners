@@ -1,4 +1,4 @@
-package dev.himanshu.testingcourse
+package dev.himanshu.testingcourse.part2
 
 import org.junit.Assert
 import org.junit.Test
